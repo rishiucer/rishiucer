@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rishianand
-- 👀 I’m interested in softwaredevelopment
+- 👀 I’m interested in software development and web development
 - 🌱 I’m currently learning DSA with java
 - 💞️ I’m looking to collaborate on https://www.linkedin.com/in/rishi-anand-623171251/
 - 📫 How to reach me rishianand629@gmail.com
