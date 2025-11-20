@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on https://www.linkedin.com/in/rishi-anand-623171251/
 - 📫 How to reach me rishianand629@gmail.com
 - 😄 Pronouns: him
-- ⚡ Fun fact: i have some knowledge about film making and screenplay.
+- ⚡ Fun fact: i have some knowledge about film making and screenplay writting.
 
 <!---
 rishiucer/rishiucer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
